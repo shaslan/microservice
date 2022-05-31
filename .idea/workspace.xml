@@ -1,7 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1aec53d9-4855-46ef-b651-c988866bee21" name="Default Changelist" comment="" />
+    <list default="true" id="1aec53d9-4855-46ef-b651-c988866bee21" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_3_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_3_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amqp/amqp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application-docker.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_32_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_5_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_5_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_5_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_3_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigw/apigw.iml" beforeDir="false" afterPath="$PROJECT_DIR$/apigw/apigw.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigw/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apigw/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigw/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/apigw/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigw/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/apigw/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigw/target/classes/com/aslan/gateway/ApiGWApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/apigw/target/classes/com/aslan/gateway/ApiGWApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/clients.iml" beforeDir="false" afterPath="$PROJECT_DIR$/clients/clients.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clients/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/target/classes/com/aslan/clients/fraud/FraudCheckResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/clients/target/classes/com/aslan/clients/fraud/FraudCheckResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/target/classes/com/aslan/clients/fraud/FraudClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/clients/target/classes/com/aslan/clients/fraud/FraudClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/target/classes/com/aslan/clients/notification/NotificationClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/clients/target/classes/com/aslan/clients/notification/NotificationClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/target/classes/com/aslan/clients/notification/NotificationRequest$NotificationRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/clients/target/classes/com/aslan/clients/notification/NotificationRequest$NotificationRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/target/classes/com/aslan/clients/notification/NotificationRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/clients/target/classes/com/aslan/clients/notification/NotificationRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/customer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/customer/customer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/java/com/aslan/customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer/src/main/java/com/aslan/customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/java/com/aslan/customer/CustomerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer/src/main/java/com/aslan/customer/CustomerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/java/com/aslan/customer/CustomerRegistrationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer/src/main/java/com/aslan/customer/CustomerRegistrationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/java/com/aslan/customer/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer/src/main/java/com/aslan/customer/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/java/com/aslan/customer/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer/src/main/java/com/aslan/customer/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/customer/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/target/classes/META-INF/customer.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/customer/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/target/classes/com/aslan/customer/Customer$CustomerBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/customer/target/classes/com/aslan/customer/Customer$CustomerBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/target/classes/com/aslan/customer/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/customer/target/classes/com/aslan/customer/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/target/classes/com/aslan/customer/CustomerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/customer/target/classes/com/aslan/customer/CustomerApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/target/classes/com/aslan/customer/CustomerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/customer/target/classes/com/aslan/customer/CustomerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/target/classes/com/aslan/customer/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/customer/target/classes/com/aslan/customer/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/target/classes/com/aslan/customer/CustomerRegistrationRequest$CustomerRegistrationRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/customer/target/classes/com/aslan/customer/CustomerRegistrationRequest$CustomerRegistrationRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/target/classes/com/aslan/customer/CustomerRegistrationRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/customer/target/classes/com/aslan/customer/CustomerRegistrationRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/target/classes/com/aslan/customer/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/target/classes/com/aslan/customer/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/customer/target/classes/com/aslan/customer/CustomerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/eureka-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/eureka-server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/target/classes/com/aslan/eurekaserver/EurekaServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/classes/com/aslan/eurekaserver/EurekaServerApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/fraud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/fraud.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/src/main/java/com/aslan/fraud/FraudCheckController.java" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/src/main/java/com/aslan/fraud/FraudCheckController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/src/main/java/com/aslan/fraud/FraudCheckHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/src/main/java/com/aslan/fraud/FraudCheckHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/src/main/java/com/aslan/fraud/FraudCheckHistoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/src/main/java/com/aslan/fraud/FraudCheckHistoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/src/main/java/com/aslan/fraud/FraudCheckService.java" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/src/main/java/com/aslan/fraud/FraudCheckService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/target/classes/com/aslan/fraud/FraudApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/target/classes/com/aslan/fraud/FraudApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/target/classes/com/aslan/fraud/FraudCheckController.class" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/target/classes/com/aslan/fraud/FraudCheckController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/target/classes/com/aslan/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/target/classes/com/aslan/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/target/classes/com/aslan/fraud/FraudCheckHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/target/classes/com/aslan/fraud/FraudCheckHistory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/target/classes/com/aslan/fraud/FraudCheckHistoryRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/target/classes/com/aslan/fraud/FraudCheckResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/target/classes/com/aslan/fraud/FraudCheckResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/target/classes/com/aslan/fraud/FraudCheckService.class" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/target/classes/com/aslan/fraud/FraudCheckService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/my-app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/notification.iml" beforeDir="false" afterPath="$PROJECT_DIR$/notification/notification.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/notification/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/src/main/java/com/aslan/notification/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/notification/src/main/java/com/aslan/notification/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/src/main/java/com/aslan/notification/NotificationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/notification/src/main/java/com/aslan/notification/NotificationApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/src/main/java/com/aslan/notification/NotificationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/notification/src/main/java/com/aslan/notification/NotificationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/src/main/java/com/aslan/notification/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/notification/src/main/java/com/aslan/notification/NotificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/notification/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/notification/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/target/classes/com/aslan/notification/Notification$NotificationBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/notification/target/classes/com/aslan/notification/Notification$NotificationBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/target/classes/com/aslan/notification/Notification.class" beforeDir="false" afterPath="$PROJECT_DIR$/notification/target/classes/com/aslan/notification/Notification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/target/classes/com/aslan/notification/NotificationApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/notification/target/classes/com/aslan/notification/NotificationApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/target/classes/com/aslan/notification/NotificationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/notification/target/classes/com/aslan/notification/NotificationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/target/classes/com/aslan/notification/NotificationRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/target/classes/com/aslan/notification/NotificationRequest$NotificationRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/notification/target/classes/com/aslan/notification/NotificationRequest$NotificationRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/target/classes/com/aslan/notification/NotificationRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/notification/target/classes/com/aslan/notification/NotificationRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification/target/classes/com/aslan/notification/NotificationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/notification/target/classes/com/aslan/notification/NotificationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,14 +126,48 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/customer/src/main/resources/application-docker.yml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="build-docker-image" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="29HdqwMCTsxm8tLzl3bRJaJiWU4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,32 +181,42 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/customer/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.44942528" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.aslan.fraud" />
+      <recent name="com.aslan.customer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shangitbaev\IdeaProjects\my-app\customer\src\main\resources" />
+      <recent name="C:\Users\shangitbaev\IdeaProjects\my-app\eureka-server\src\main\resources" />
+      <recent name="C:\Users\shangitbaev\IdeaProjects\my-app\apigw\src\main\resources" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.aslan.clients.notification" />
       <recent name="com.aslan.clients.fraud" />
       <recent name="com.aslan.customer" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.aslan.fraud" />
-      <recent name="com.aslan.customer" />
-    </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.NotificationApplication">
+  <component name="RunManager" selected="Spring Boot.CustomerApplication">
     <configuration name="ApiGWApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="apigw" />
       <extension name="coverage">
@@ -84,6 +239,8 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.aslan.customer.CustomerApplication" />
+      <option name="ACTIVE_PROFILES" value="docker" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,6 +254,7 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.aslan.eurekaserver.EurekaServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,6 +268,7 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.aslan.fraud.FraudApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,14 +295,15 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.NotificationApplication" />
-        <item itemvalue="Spring Boot.FraudApplication" />
         <item itemvalue="Spring Boot.CustomerApplication" />
-        <item itemvalue="Spring Boot.ApiGWApplication" />
         <item itemvalue="Spring Boot.EurekaServerApplication" />
+        <item itemvalue="Spring Boot.NotificationApplication" />
+        <item itemvalue="Spring Boot.ApiGWApplication" />
+        <item itemvalue="Spring Boot.FraudApplication" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -162,84 +322,44 @@
       <workItem from="1653021758923" duration="3421000" />
       <workItem from="1653046095297" duration="3479000" />
       <workItem from="1653406625026" duration="1906000" />
+      <workItem from="1653560479872" duration="1129000" />
+      <workItem from="1653565930133" duration="6210000" />
+      <workItem from="1653626855287" duration="427000" />
+      <workItem from="1653628720651" duration="3616000" />
+      <workItem from="1653641930654" duration="19000" />
+      <workItem from="1653729096405" duration="5772000" />
+      <workItem from="1653834049729" duration="6334000" />
+      <workItem from="1653880073081" duration="39000" />
+      <workItem from="1653918262637" duration="4427000" />
+      <workItem from="1653967459129" duration="24000" />
+      <workItem from="1653973250173" duration="2781000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1653560760489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653560760489</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Docker" timestamp="1652779643582">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="22" key="#Docker/0.0.1366.728@0.0.1366.728" timestamp="1652779643582" />
-    <state x="392" y="72" key="#Docker_Image" timestamp="1652855313448">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="392" y="72" key="#Docker_Image/0.0.1366.728@0.0.1366.728" timestamp="1652855313448" />
-    <state x="266" y="21" width="1100" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1652948001980">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="266" y="21" width="1100" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1652948001980" />
-    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1652957065871">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1652957065871" />
-    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1652954075947">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1652954075947" />
-    <state x="392" y="99" key="#docker-compose.yml:_Compose_Deployment" timestamp="1652779646964">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="392" y="99" key="#docker-compose.yml:_Compose_Deployment/0.0.1366.728@0.0.1366.728" timestamp="1652779646964" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1652774861055">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1652774861055" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1653410634936">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1653410634936" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1653410634936">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1653410634936" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1653410634936">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1653410634936" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1653410634936">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1653410634936" />
-    <state width="1322" height="174" key="GridCell.Tab.1.bottom" timestamp="1653410634937">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="174" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1653410634937" />
-    <state width="1322" height="174" key="GridCell.Tab.1.center" timestamp="1653410634936">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="174" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1653410634936" />
-    <state width="1322" height="174" key="GridCell.Tab.1.left" timestamp="1653410634936">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="174" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1653410634936" />
-    <state width="1322" height="174" key="GridCell.Tab.1.right" timestamp="1653410634936">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="174" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1653410634936" />
-    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1652956128623">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1652956128623" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1652956955327">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1652956955327" />
-    <state x="65" y="24" key="new project wizard" timestamp="1653046369165">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="65" y="24" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1653046369165" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>

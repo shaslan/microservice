@@ -10,7 +10,7 @@ import java.time.LocalDate;
 @AllArgsConstructor
 public class NotificationService {
 
-    private final NotificationRepository notificationRepository;
+//    private final NotificationRepository notificationRepository;
 
     @Transactional
     public void registerNotification(NotificationRequest notificationRequest) {
@@ -22,6 +22,7 @@ public class NotificationService {
                 .sentAt(LocalDate.now())
                 .build();
 
-        notificationRepository.save(notification);
+//        notificationRepository.save(notification);
+        System.out.println(notification);
     }
 }

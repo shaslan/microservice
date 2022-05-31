@@ -9,16 +9,21 @@ import java.time.LocalDateTime;
 @RequiredArgsConstructor
 public class FraudCheckService {
 
-    private final FraudCheckHistoryRepository fraudCheckHistoryRepository;
+//    private final FraudCheckHistoryRepository fraudCheckHistoryRepository;
 
     public boolean isFraudulentCustomer(Integer customerId) {
-        fraudCheckHistoryRepository.save(
-                FraudCheckHistory.builder()
-                        .customerId(customerId)
-                        .createdAt(LocalDateTime.now())
-                        .isFraudster(false)
-                        .build()
-        );
+//        fraudCheckHistoryRepository.save(
+//                FraudCheckHistory.builder()
+//                        .customerId(customerId)
+//                        .createdAt(LocalDateTime.now())
+//                        .isFraudster(false)
+//                        .build()
+//        );
+        System.out.println(FraudCheckHistory.builder()
+                .customerId(customerId)
+                .createdAt(LocalDateTime.now())
+                .isFraudster(false)
+                .build());
         return false;
     }
 }
